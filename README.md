@@ -45,7 +45,7 @@ Hi! I'm **EyeTeaBoy**, a passionate IT professional with a degree in **Network E
 ## 📫 Let's Connect
 
 - 📷 **Instagram:** [eyeteaboi](https://www.instagram.com/eyeteaboi)  
-- 💻 **GitHub:** [github.com/YourUsername](https://github.com/YourUsername)
+- 💻 **GitHub:** [github.com/YourUsername](https://github.com/EyeTeaBoy)
 
 ---
 
