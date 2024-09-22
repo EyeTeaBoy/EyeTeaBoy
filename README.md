@@ -1,6 +1,6 @@
 # EyeTeaBoy's Tech World 🌐
 
-Hi! I'm **EyeTeaBoy**, a passionate IT professional with a degree in **Network Engineering and Security** from **Western Governors University (WGU)**. I specialize in general IT, networking, cloud, AV, IP phones, project management, file permissions, and account management. I’m also sharpening my skills in network automation and programming through Cisco DevNet.
+Hi! I'm **EyeTeaBoy**, a passionate IT professional with a degree in **Network Engineering and Security**. I specialize in general IT, networking, cloud, AV, IP phones, project management, file permissions, and account management. I’m also sharpening my skills in network automation and programming through Cisco DevNet.
 
 ## 🛠 Skills & Expertise
 
@@ -47,6 +47,4 @@ Hi! I'm **EyeTeaBoy**, a passionate IT professional with a degree in **Network E
 - 📷 **Instagram:** [eyeteaboi](https://www.instagram.com/eyeteaboi)  
 - 💻 **GitHub:** [github.com/YourUsername](https://github.com/EyeTeaBoy)
 
----
 
-Feel free to explore my repositories and projects! I'm always open to learning new things and collaborating with others in the tech community.
