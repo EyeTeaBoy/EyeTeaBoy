@@ -1,4 +1,4 @@
-# EyeTeaBoy's Tech World 🌐
+# EyeTeaBoy
 
 Hi! I'm **EyeTeaBoy**, a passionate IT professional with a degree in **Network Engineering and Security**. I specialize in general IT, networking, cloud, AV, IP phones, project management, file permissions, and account management. I’m also sharpening my skills in network automation and programming through Cisco DevNet.
 
